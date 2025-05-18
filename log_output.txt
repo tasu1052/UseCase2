@@ -1,0 +1,6 @@
+[Kim Taesu] Sun May 18 14:59:51 2025 +0900 diagram 커밋 130de61
+[Kim Taesu] Fri May 16 14:02:27 2025 +0900 Update Usecase Descriptions.md 797e3c6
+[Kim Taesu] Wed May 14 15:26:06 2025 +0900 Create Usecase2.pdf a1bd158
+[Kim Taesu] Wed May 14 15:24:45 2025 +0900 Update Usecase Descriptions.md 80a1225
+[Kim Taesu] Wed May 14 15:22:47 2025 +0900 Description 커밋 e42a60f
+[Kim Taesu] Tue May 13 21:40:06 2025 +0900 Requirement List 047ad9d
